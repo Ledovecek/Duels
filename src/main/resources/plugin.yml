@@ -1,0 +1,10 @@
+name: Duels
+version: '${version}'
+main: me.ledovec.duels.Duels
+api-version: 1.17
+authors: [Ledovec]
+softdepend: [Multiverse-Core]
+commands:
+  duel:
+  kits:
+  stats:
